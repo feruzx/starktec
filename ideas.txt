@@ -1,0 +1,19 @@
+OFI/PUE/AVIN/0001/2013
+
+Docuemento
+tipo/centro de trabajo/departamento/consecutivo/Año
+
+
+Correspondencia
+centro de trabajo/departamento/2013/0001
+
+
+
+Guardar 
+---> generar Folio
+                ---->Turno inmediato
+				---->Llenar turno Inmediato
+
+
+Listado Pendientes
+ 		---->Llenar turno 
